@@ -1,0 +1,6 @@
+pdfplumber
+jieba
+rank-bm25
+numpy
+openai
+python-dotenv

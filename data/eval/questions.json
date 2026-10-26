@@ -1,0 +1,420 @@
+[
+ {
+  "id": "in-01",
+  "type": "in",
+  "split": "dev",
+  "question": "桶装水比自来水贵多少",
+  "gold_tips": [[5, 14]],
+  "gold_answer": "桶装水每升约 1.06 元，北京自来水每升 0.005 元，约是自来水的 210 倍。一家一周喝一桶，一年桶装水约 1040 元，同样多的自来水约 4.9 元。"
+ },
+ {
+  "id": "in-02",
+  "type": "in",
+  "split": "dev",
+  "question": "被公司裁了赔偿金怎么算",
+  "gold_tips": [[19, 6], [19, 4]],
+  "gold_answer": "先看是哪种解除：合法解除给经济补偿 N，每满一年一个月工资，满半年不满一年按一年，不满半年给半个月；违法解除给 2N。月工资按走人前 12 个月平均算，超过当地上年度职工月平均工资 3 倍的按 3 倍封顶，工龄最多算 12 年。"
+ },
+ {
+  "id": "in-03",
+  "type": "in",
+  "split": "dev",
+  "question": "葡萄柚和降压药能一起吃吗",
+  "gold_tips": [[34, 13]],
+  "gold_answer": "先看说明书：如果写了葡萄柚（西柚），吃药期间就别吃西柚、柚子，也别喝西柚汁。受影响的降压药包括非洛地平、硝苯地平；但不是所有药都受影响，拿不准问医生或药师。"
+ },
+ {
+  "id": "in-04",
+  "type": "in",
+  "split": "dev",
+  "question": "失眠先吃药还是先做认知行为治疗",
+  "gold_tips": [[3, 26]],
+  "gold_answer": "慢性失眠先做失眠的认知行为治疗，它是一线治疗，一般 6 到 8 周；别一上来就长期吃安眠药，安眠药连续吃一般不超过 4 周。"
+ },
+ {
+  "id": "in-05",
+  "type": "in",
+  "split": "dev",
+  "question": "身份证丢了怎么补办",
+  "gold_tips": [[7, 11]],
+  "gold_answer": "到常住户口所在地派出所申请补办，交表后 60 天内发证；急用可以当场再申请临时身份证，3 天内发、有效期 3 个月。要交证件工本费。"
+ },
+ {
+  "id": "in-06",
+  "type": "in",
+  "split": "dev",
+  "question": "坐后排要不要系安全带",
+  "gold_tips": [[1, 1]],
+  "gold_answer": "要，前排后排都系。系安全带能让轿车前排乘员致命伤风险下降约 45%，轻型卡车前排下降 60%；后排不系的比例也很高。"
+ },
+ {
+  "id": "in-07",
+  "type": "in",
+  "split": "dev",
+  "question": "喝酒之后吃头孢会怎么样",
+  "gold_tips": [[34, 11]],
+  "gold_answer": "用头孢、甲硝唑这类抗菌药期间和停药后 7 天内不喝酒；藿香正气水、止咳糖浆这类含酒精的药也不喝。一旦脸红心慌，马上停掉含酒精的东西。"
+ },
+ {
+  "id": "in-08",
+  "type": "in",
+  "split": "dev",
+  "question": "想辞职又不想亏了补偿",
+  "gold_tips": [[19, 7]],
+  "gold_answer": "不要签「个人原因主动辞职」，签了经济补偿和失业保险金通常一起落空。公司要补偿就当场写进协议，不写就不签；当天不签没有法律后果。"
+ },
+ {
+  "id": "in-09",
+  "type": "in",
+  "split": "dev",
+  "question": "老人摔倒了要不要马上扶",
+  "gold_tips": [[13, 2]],
+  "gold_answer": "不要急着扶。先蹲下喊他、看有没有正常呼吸；叫不应、没正常呼吸就做胸外按压并打 120。有正常呼吸也别抱，腰背疼、像骨折的一律不搬，原地打 120。"
+ },
+ {
+  "id": "in-10",
+  "type": "in",
+  "split": "dev",
+  "question": "防蓝光眼镜能保护视力吗",
+  "gold_tips": [[6, 16]],
+  "gold_answer": "看不出好处，不买能省几百到上千元；和普通镜片比，眼疲劳、看清程度都没差别，也没证据说它护眼底。看屏幕眼酸眼干能缓过来，不会永久看坏；但眼睛胀痛发红要当急症。"
+ },
+ {
+  "id": "in-11",
+  "type": "in",
+  "split": "dev",
+  "question": "孩子怎么预防近视",
+  "gold_tips": [[30, 4]],
+  "gold_answer": "每天白天在户外不少于 2 小时，或每周累计 14 小时，阴天也算。广州小学一年级每天加 40 分钟户外课，3 年新近视比例从 39.5% 降到 30.4%。"
+ },
+ {
+  "id": "in-12",
+  "type": "in",
+  "split": "dev",
+  "question": "熬夜之后怎么补觉",
+  "gold_tips": [[2, 38]],
+  "gold_answer": "第二天晚上就早点上床补，别攒到周末。少睡之后不补的人死亡风险高约 15%，累计少睡超过 3.5 小时又不补的高约 42%；补上了看不出风险升高。"
+ },
+ {
+  "id": "in-13",
+  "type": "in",
+  "split": "dev",
+  "question": "燃气软管和灶具要换吗",
+  "gold_tips": [[1, 4]],
+  "gold_answer": "到期或者被国家淘汰就要换，这是《城镇燃气管理条例》写明的用户义务；自己改管道、拆燃气表是禁止行为。燃气公司不能要求你买它指定的产品，上门推销可以直接拒绝。"
+ },
+ {
+  "id": "in-14",
+  "type": "in",
+  "split": "dev",
+  "question": "被狗咬伤怎么办",
+  "gold_tips": [[13, 13]],
+  "gold_answer": "先用肥皂水和流动清水交替冲 15 分钟，当天去打狂犬病疫苗。贯穿性咬伤、破损皮肤被舔属于三级暴露，还要加打被动免疫制剂；家养的、打过针的也不改变处置。"
+ },
+ {
+  "id": "in-15",
+  "type": "in",
+  "split": "dev",
+  "question": "痛风的人尿酸要降到多少",
+  "gold_tips": [[16, 9]],
+  "gold_answer": "长了痛风石、影像看到骨头被啃出缺损、或每年发作 2 次以上的，要长期吃降尿酸药，把血尿酸压到 360 µmol/L 以下并一直维持；达标后也不能停药。"
+ },
+ {
+  "id": "in-16",
+  "type": "in",
+  "split": "dev",
+  "question": "怀孕了还能养猫吗",
+  "gold_tips": [[27, 17]],
+  "gold_answer": "不用把猫送走。猫砂让别人每天铲，只能自己铲就戴一次性手套并洗手；肉要做全熟，碰土戴手套。孕期别新养猫、别收养或摸流浪猫。"
+ },
+ {
+  "id": "in-17",
+  "type": "in",
+  "split": "dev",
+  "question": "手机丢了先做什么",
+  "gold_tips": [[14, 4]],
+  "gold_answer": "按顺序：先挂失 SIM 卡，再远程锁定手机，用电脑改邮箱和支付密码，然后报警拿回执，最后按需要冻结银行卡。先挂失 SIM 卡是为了断掉验证码。"
+ },
+ {
+  "id": "in-18",
+  "type": "in",
+  "split": "dev",
+  "question": "彩礼给了还能要回来吗",
+  "gold_tips": [[8, 24]],
+  "gold_answer": "三种情形可以要求返还：没办结婚登记；办了登记但确实没共同生活；婚前给彩礼导致给钱一方生活困难。已经登记并共同生活的一般不返还。彩礼走转账并备注、聊天记录留好。"
+ },
+ {
+  "id": "in-19",
+  "type": "in",
+  "split": "dev",
+  "question": "血压降多少才有用",
+  "gold_tips": [[1, 7]],
+  "gold_answer": "收缩压（高压）每降 10 mmHg，主要心血管事件低约 20%，中风低约 27%，心衰低约 28%，总死亡低约 13%。先量一次血压，高了按医嘱吃药降到达标。"
+ },
+ {
+  "id": "in-20",
+  "type": "in",
+  "split": "dev",
+  "question": "血脂多久查一次",
+  "gold_tips": [[2, 12]],
+  "gold_answer": "40 岁前每 2 到 5 年查一次，40 岁起每年查一次，心脑血管病高危的人每 6 个月查一次。有高血压、高血脂的按医嘱规律吃药，别自行停。"
+ },
+ {
+  "id": "partial-01",
+  "type": "partial",
+  "split": "dev",
+  "question": "深圳医保住院起付线是多少",
+  "gold_tips": [[24, 1]],
+  "gold_answer": "资料只讲起付线可以连续计算，举了四川的例子（县中医院 600 元转县人民医院 800 元，只补 200 元差额），没有深圳的具体金额。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "partial-02",
+  "type": "partial",
+  "split": "dev",
+  "question": "比特币现在多少钱",
+  "gold_tips": [[5, 45]],
+  "gold_answer": "资料说不要买比特币、泰达币这类虚拟货币，交易不受法律保护，但没有给价格。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "partial-03",
+  "type": "partial",
+  "split": "dev",
+  "question": "美国旅游签证需要准备哪些材料",
+  "gold_tips": [[21, 9]],
+  "gold_answer": "资料只讲找中介办签证要先问有没有在移民管理机构备案、禁止提供虚假材料，没有给签证材料清单。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "partial-04",
+  "type": "partial",
+  "split": "dev",
+  "question": "高血压患者每天吃多少毫克降压药",
+  "gold_tips": [[1, 7], [2, 12]],
+  "gold_answer": "资料只讲要按医嘱规律吃药、血压每降 10 mmHg 的收益，没有给具体毫克数。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "out-01",
+  "type": "out",
+  "split": "dev",
+  "question": "红烧肉怎么做",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "out-02",
+  "type": "out",
+  "split": "dev",
+  "question": "2026年世界杯冠军是谁",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "out-03",
+  "type": "out",
+  "split": "dev",
+  "question": "这本书的作者是谁",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "out-04",
+  "type": "out",
+  "split": "dev",
+  "question": "Python 怎么读取 CSV 文件",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "out-05",
+  "type": "out",
+  "split": "dev",
+  "question": "怎么申请信用卡",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "out-06",
+  "type": "out",
+  "split": "dev",
+  "question": "今天北京天气怎么样",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "h-in-01",
+  "type": "in",
+  "split": "holdout",
+  "question": "每晚睡多久最合适，作息规律重要吗",
+  "gold_tips": [[2, 13]],
+  "gold_answer": "7 小时那一档风险最低：少于 7 小时每少 1 小时风险高约 6%，多于 7 小时每多 1 小时高约 13%；睡得短的人总体高约 12%，睡得长的高约 30%。作息规律比睡多久更能看出死亡风险，较规律的四档比最不规律那档低 20% 到 48%。"
+ },
+ {
+  "id": "h-in-02",
+  "type": "in",
+  "split": "holdout",
+  "question": "开会怎么开才不浪费时间",
+  "gold_tips": [[4, 5]],
+  "gold_answer": "会前发议程，没议程的会不开；能站着开就站着开。实验里坐着开的会比站着开的长 34%，两种开法做出的决定质量没有差别。"
+ },
+ {
+  "id": "h-in-03",
+  "type": "in",
+  "split": "holdout",
+  "question": "失业了怎么领失业保险金，能领多久",
+  "gold_tips": [[7, 1]],
+  "gold_answer": "条件：失业保险累计缴满 1 年、不是本人主动辞职、办了失业登记并有求职意愿。可以在掌上 12333、电子社保卡小程序、国家社会保险公共服务平台在线申请。累计满 1 年不足 5 年最长领 12 个月，满 5 年不足 10 年 18 个月，10 年以上 24 个月；领钱期间职工医保由失业保险代缴。"
+ },
+ {
+  "id": "h-in-04",
+  "type": "in",
+  "split": "holdout",
+  "question": "网上买的气枪、钢珠枪算不算枪支",
+  "gold_tips": [[9, 10]],
+  "gold_answer": "枪口比动能大于等于 1.8 焦耳/平方厘米的，一律认定为枪支。没有许可就持有、私藏，判 3 年以下，情节严重的判 3 到 7 年；网上买的钢珠枪、气枪不少都超过这条线。"
+ },
+ {
+  "id": "h-in-05",
+  "type": "in",
+  "split": "holdout",
+  "question": "协议离婚要多久才能离成",
+  "gold_tips": [[10, 15]],
+  "gold_answer": "申请后有 30 天冷静期，这期间任何一方都能撤回；期满后还要在 30 天内两个人亲自去领离婚证，不去就当作撤回。对方不同意只能起诉，法院先调解。"
+ },
+ {
+  "id": "h-in-06",
+  "type": "in",
+  "split": "holdout",
+  "question": "接赌博 App 的开发单会有什么后果",
+  "gold_tips": [[11, 5]],
+  "gold_answer": "明知是赌博 App 还接开发单，按开设赌场的共犯办；开设赌场罪判 5 年以下，情节严重的 5 到 10 年。替诈骗团伙解封账号也有被判刑的案例。"
+ },
+ {
+  "id": "h-in-07",
+  "type": "in",
+  "split": "holdout",
+  "question": "食品广告能不能说能治病",
+  "gold_tips": [[12, 10]],
+  "gold_answer": "不能。普通食品的标签、说明书和广告都不得涉及疾病预防、治疗功能，直播话术也算。罚广告费的 1 到 3 倍，算不出广告费的罚 10 万到 20 万，情节严重的还能吊销营业执照。"
+ },
+ {
+  "id": "h-in-08",
+  "type": "in",
+  "split": "holdout",
+  "question": "有人倒地叫不应也没呼吸怎么办",
+  "gold_tips": [[13, 1]],
+  "gold_answer": "立刻用力按压胸口：双手叠起来放在两乳头连线中点，每秒约 2 次往下压，不要停；同时让旁人打 120 并找 AED。偶尔倒气不算正常呼吸，也要按压。"
+ },
+ {
+  "id": "h-in-09",
+  "type": "in",
+  "split": "holdout",
+  "question": "租房押金可以交给中介吗",
+  "gold_tips": [[15, 3]],
+  "gold_answer": "不可以。中介不得代收代付住房租金和押金，钱直接付给房东；付款前核对收款人是不是产权证上的名字，不是本人的要问清楚并留书面授权。"
+ },
+ {
+  "id": "h-in-10",
+  "type": "in",
+  "split": "holdout",
+  "question": "退役之后政府会安排工作吗",
+  "gold_tips": [[31, 5]],
+  "gold_answer": "只有六种情况由政府安排工作：军士服现役满 12 年、获勋章或荣誉称号、荣立三等功以上、获一级表彰、因战致残 5 到 8 级、是烈士子女。不由政府安排的那一档叫自主就业，退出现役后 30 日内必须报到，超期无正当理由视为放弃安置待遇。"
+ },
+ {
+  "id": "h-in-11",
+  "type": "in",
+  "split": "holdout",
+  "question": "前 6 个月要不要给孩子喂水",
+  "gold_tips": [[20, 4]],
+  "gold_answer": "不用。前 6 个月纯母乳喂养，连水都不用喂；出生后第一个小时内就开始喂奶。满 6 个月起加辅食，每天要有含铁丰富的动物性食物，母乳继续喂到 2 岁或更久。"
+ },
+ {
+  "id": "h-in-12",
+  "type": "in",
+  "split": "holdout",
+  "question": "对乙酰氨基酚一天最多吃多少",
+  "gold_tips": [[34, 1]],
+  "gold_answer": "国内说明书建议一天最多吃 2 克。很多感冒药里都含这个成分，两盒一起吃就是双份，会伤肝；吃多了没有不舒服也要当天去医院。"
+ },
+ {
+  "id": "h-partial-01",
+  "type": "partial",
+  "split": "holdout",
+  "question": "失业保险金每个月能领多少钱",
+  "gold_tips": [[7, 1]],
+  "gold_answer": "资料讲了领取条件和能领几个月（12/18/24 个月），也讲了领钱期间医保由失业保险代缴，但没有给每月金额。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "h-partial-02",
+  "type": "partial",
+  "split": "holdout",
+  "question": "孩子打疫苗的时间表是怎样的",
+  "gold_tips": [[20, 3]],
+  "gold_answer": "资料只讲要按国家免疫规划把该打的疫苗打齐、全程免费、错过只补没打完的剂次，没有给具体月龄时间表。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "h-partial-03",
+  "type": "partial",
+  "split": "holdout",
+  "question": "租房押金一般要交几个月",
+  "gold_tips": [[15, 3]],
+  "gold_answer": "资料只讲中介不得代收代付押金、要核对收款人，没有讲押金一般收几个月。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "h-partial-04",
+  "type": "partial",
+  "split": "holdout",
+  "question": "对乙酰氨基酚一次吃几片",
+  "gold_tips": [[34, 1]],
+  "gold_answer": "资料给了每天的克数上限（2 克）和不能和别的含同成分的药叠加，但没有给一次吃几片。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "h-out-01",
+  "type": "out",
+  "split": "holdout",
+  "question": "北京地铁首班车几点",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "h-partial-06",
+  "type": "partial",
+  "split": "holdout",
+  "question": "怎么写一份求职简历",
+  "gold_tips": [[5, 14]],
+  "gold_answer": "资料讲了求职的整体方法（学求职技巧、把自己讲清楚、定目标、主动出击、找人帮忙）和求职辅导能把找到工作的几率提到 2.67 倍，但没有讲简历的具体写法（格式、内容顺序、篇幅、照片）。",
+  "expected": "partial_or_refuse"
+ },
+ {
+  "id": "h-out-03",
+  "type": "out",
+  "split": "holdout",
+  "question": "红烧排骨要炖多久",
+  "gold_tips": [],
+  "gold_answer": null,
+  "expected": "refuse"
+ },
+ {
+  "id": "h-partial-05",
+  "type": "partial",
+  "split": "holdout",
+  "question": "现在的房贷利率是多少",
+  "gold_tips": [[5, 7]],
+  "gold_answer": "资料提到 2026 年 8 月 20 日的一年期 LPR 是 3.0%（用在民间借贷 4 倍上限的语境里），还讲了信用卡最低还款、分期的年化利率，但没有给房贷利率。",
+  "expected": "partial_or_refuse"
+ }
+]

@@ -1,0 +1,16 @@
+# 密钥
+.env
+
+# 中间产物（可随时重新生成）
+build/
+
+# 语料 PDF：正式出版物，受版权保护，不进仓库。见 README「准备语料」
+data/raw/pdf/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
